@@ -1,1 +1,2 @@
 # MFBM
+I have created this repository with the intention of combining my loves of Computer Science, Mathematics, and Basketball to aim to create the first ever Matthew Faler Basketball Metric (MFBM). I am still in the brainstorming phase, but I am very interested in writing one of these algorithms to measure player value. My first step will be analyzing how many of these basketball metrics work and how people calculate them.
